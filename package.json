@@ -1,0 +1,25 @@
+{
+  "name": "tweak",
+  "version": "1.0.0",
+  "description": "Tweak Fabric JS assessment",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venanciogomani/fabricjs.git"
+  },
+  "keywords": [
+    "fabric"
+  ],
+  "author": "Venancio Gomani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venanciogomani/fabricjs/issues"
+  },
+  "homepage": "https://github.com/venanciogomani/fabricjs#readme"
+}
